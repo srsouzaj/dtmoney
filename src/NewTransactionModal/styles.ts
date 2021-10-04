@@ -48,3 +48,7 @@ button[type="submit"]{
 
 }
 `;
+
+export const TransactionTypeContainer = styled.div`
+
+`;
